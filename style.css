@@ -1,0 +1,24 @@
+@charset "UTF-8";
+
+#img {
+    display: flex;
+    justify-content: center;
+}
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgba(186, 229, 229, 0.573);
+}
+h1 {
+    font-size: 46px;
+    border-radius: 15px 50px 15px 50px;
+    background-color: rgba(0, 0, 255, 0.252);
+    text-align: center;
+}
+h2 {
+    font-size: 30px;
+    text-align: left;
+}
+p {
+    font-size: 18px;
+    text-align: justify; 
+}
