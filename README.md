@@ -1,2 +1,5 @@
 # project_01
-Projeto simples, contendo o básico de HTML e CSS.
+Um projeto simples, contendo o básico de HTML e CSS.
+Apenas 5 dias de estudo :) 
+
+.
